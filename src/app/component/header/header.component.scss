@@ -1,0 +1,36 @@
+span {
+  background-color: white;
+}
+
+.header-content {
+  display: flex;
+  flex-direction: row;
+  padding: 40px 38px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.header-text {
+  display: flex;
+  flex-direction: column;
+  margin-top: -5px;
+  text-align: left;;
+  font: normal normal bold 22px/25px Montserrat;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  opacity: 1;
+  margin-left: 2px;
+  font-size: 15px ;
+  line-height: 17px;
+}
+
+.header-image {
+  background-color: white;
+}
+.header-text-address{
+  color: #008CFF;
+}
+img{
+  height: 40.48px;
+  width: 40.48px;
+}
